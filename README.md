@@ -1,2 +1,3 @@
-# RGB-LED-RAINBOW-FADE
-A program for using an RGB LED to fade between rainbow colors
+# Arduino LED Rainbow Fader
+
+This repo contains code for easy and simple testing of an Arduino and LED wiring circuit to ensure everything is working.
